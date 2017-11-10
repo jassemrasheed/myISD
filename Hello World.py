@@ -3,6 +3,7 @@ Python 3.6.3 (v3.6.3:2c5fed86e0, Oct  3 2017, 00:32:08)
 Type "copyright", "credits" or "license()" for more information.
 >>> WARNING: The version of Tcl/Tk (8.5.9) in use may be unstable.
 Visit http://www.python.org/download/mac/tcltk/ for current information.
-print('Hello World')
-Hello World
->>> 
+>>> name = input('What is your name?')
+What is your name?
+>>> print('Hello', shadowthrone)
+Hello shadowthrone
